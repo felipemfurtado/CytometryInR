@@ -28,6 +28,30 @@ The installation instructions will then vary a bit depending on whether your com
 
 ## Windows
 
+When using a [Microsoft](/course/00_WorkstationSetup/MacOS.qmd) operating system, the Julia website will route you to this webpage, with instructions on how to download the installer.
+
+![](images/Windows_01.png)
+
+Proceed to download the installer, and once downloaded, run it. 
+
+![](images/Windows_02.png)
+
+Proceed with the installation
+
+![](images/Windows_03.png)
+
+Wait for the installation to complete
+
+![](images/Windows_04.png)
+
+After completion, the installer proceeds to open Julia and check for updates. 
+
+![](images/Windows_05.png)
+
+You should see the Julia splash screen if everything installed correctly. 
+
+![](images/Windows_06.png)
+
 ## MacOS or Linux
 
 When using either a [MacOS](/course/00_WorkstationSetup/MacOS.qmd) or [Linux](/course/00_WorkstationSetup/Linux.qmd) operating system, the Julia website will route you to this webpage, with instructions on how to install Julia via your terminal. 
