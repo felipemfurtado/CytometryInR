@@ -109,8 +109,9 @@ website:
     - section: "The World is your Oyster"
       href: Schedule.qmd
     - section: "Community"
-      href: course/community/index.qmd
-      contents:         
+      contents:       
+      - text: "AutoSpectral"
+        href: course/community/AutoSpectral/index.qmd  
       - text: "TRU-OLS"
         href: course/community/TRU-OLS/index.qmd
   page-footer: 
